@@ -1,7 +1,7 @@
 ### Sistema de Gestión de Inventario Junior (CLI)
 
 Este proyecto es una aplicación de consola en Java 21 orientada a objetos (POO) diseñada para gestionar el inventario de una tienda. Implementa un proceso automatizado de Extracción, Transformación y Carga (ETL) que permite importar archivos masivos desnormalizados, limpiar los datos y distribuirlos de forma eficiente en una base de datos relacional. 
-
+### Linck github
 ### 🚀 Características Principales
 
 * **Arquitectura en Capas:** Separación estricta de responsabilidades (Presentación, Servicios, Configuración y Modelos).
@@ -29,7 +29,7 @@ El sistema organiza los datos a través de 4 tablas para garantizar la integrida
 A continuación se detalla visualmente cómo viaja la información y cómo interactúa el usuario con los menús de la aplicación: 
 
 text
-
+****
        [ Inicio de la Aplicación ]
                     │
                     ▼
